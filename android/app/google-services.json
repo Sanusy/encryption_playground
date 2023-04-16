@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "418929110082",
+    "project_id": "encryption-playground",
+    "storage_bucket": "encryption-playground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418929110082:android:3f85bf0b0744e373bd51db",
+        "android_client_info": {
+          "package_name": "com.gmail.ivan.morozyk.encryption.encryption_playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418929110082-j43cgtnalanf59peo4qoqn08unc7pfru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmail.ivan.morozyk.encryption.encryption_playground",
+            "certificate_hash": "918dc118f198e8f35201bee858d5dfba1decd63a"
+          }
+        },
+        {
+          "client_id": "418929110082-gd97d9n4pp1rn7lam86n6f3qnt9h4lsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyzNAgM6_MqprJ9u-F0JwfMmp07YmPzCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418929110082-gd97d9n4pp1rn7lam86n6f3qnt9h4lsg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418929110082-miou96stdb50vgrf2rdg63frscfmtp45.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gmail.ivan.morozyk.encryption.encryptionPlayground"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
